@@ -1,23 +1,26 @@
 body{
-    background-color: #FFFFFF;
+    background-color: #FFE57F;
 }
 
 .navbar{
-    background-color: #FFD800 !important;
+    background-color: #80DEEA !important;
 }
 
 .nav-link{
-    color: #3D495A !important;
-    font-family: cursive;
-    font-size: 10px;
+    color: #880E4F !important;
+    font-weight: bold;
+    box-shadow: 2px 6px 6px #fff;
     margin-top: 10px;
-    font-size: 26px;
-    margin-left: 35px;
+    font-size: 30px;
+    margin-left: 30px;
+    border: 4px solid #880E4F;
+    font-family: cursive;
 }
 
 .tagLine{
-    background-color: #FFD800;
+    background-color: #E3F2FD;
     font-size: 2em;
+    border: 2px solid #880E4F;
 }
 
 .fa-user-circle,.fa-cutlery{
@@ -40,7 +43,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 10px;
-   
+    border: 4px solid #2E7D32;
 }
 
 .mainCard{
@@ -81,7 +84,7 @@ h3{
     background-color: #80DEEA;
     color: #4A148C;
     margin: 20px;
-   
+    border: 4px solid #4A148C;
 }
 
 .design{
