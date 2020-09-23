@@ -13,13 +13,11 @@ body{
     margin-top: 10px;
     font-size: 30px;
     margin-left: 30px;
-    border: 4px solid #880E4F;
 }
 
 .tagLine{
     background-color: #E3F2FD;
     font-size: 2em;
-    border: 2px solid #880E4F;
 }
 
 .fa-user-circle,.fa-cutlery{
@@ -42,7 +40,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 10px;
-    border: 4px solid #2E7D32;
+   
 }
 
 .mainCard{
@@ -83,7 +81,7 @@ h3{
     background-color: #80DEEA;
     color: #4A148C;
     margin: 20px;
-    border: 4px solid #4A148C;
+   
 }
 
 .design{
