@@ -21,6 +21,7 @@ body{
     background-color: #E3F2FD;
     font-size: 2em;
     border: 2px solid #880E4F;
+    padding-bottom:4px;
 }
 
 .fa-user-circle,.fa-cutlery{
@@ -44,6 +45,7 @@ body{
     align-items: center;
     margin-top: 10px;
     border: 4px solid #2E7D32;
+    border-radius: 15%;
 }
 
 .mainCard{
@@ -67,10 +69,15 @@ h3{
     width: 250px;
     height: auto !important;
     margin-bottom: 5px;
+    margin-top:20px;
 }
 
 .card-text{
     font-weight: bold;
+}
+
+.card-img-top{
+    height: 170px;
 }
 
 .btn-primary{
@@ -88,17 +95,26 @@ h3{
 }
 
 .design{
-    font-style: italic;
     text-align: center;
     background-color: #80DEEA;
     color: #880E4F;
+    padding-bottom:4px;
+}
+
+.design-container{
+    background-color: #80DEEA;
+    padding-left: 20%;
+    padding-right:20%;
+    padding-bottom:20px;
+    padding-top:20px;
 }
 
 .heading > h1{
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px white;
 }
 
 .footer{
+    margin-top:20px;
     width: 100%;
     background-color: #80DEEA;
     height: 70px;
